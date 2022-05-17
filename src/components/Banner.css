@@ -1,0 +1,16 @@
+.Banner{
+    background-color: rgba(213, 158, 80, 0.963);
+    min-height: 5vh;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    font-size: calc(10px + 2vmin);
+    color: rgb(0, 0, 0);
+}
+.Boton{
+    background-color: rgba(213, 158, 80, 0.963);
+    margin-top: 1vh;
+    flex-direction: row;
+    
+}

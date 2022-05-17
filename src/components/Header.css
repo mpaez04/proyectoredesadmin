@@ -1,0 +1,15 @@
+.Header-logo {
+    height: 30vmin;
+    margin-top: 1vmax;
+}
+
+.Header-header {
+    background-color: rgba(213, 158, 80, 0.963);
+    min-height: 15vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-size: calc(5px + 2vmin);
+    color: rgb(246, 246, 109);
+}
