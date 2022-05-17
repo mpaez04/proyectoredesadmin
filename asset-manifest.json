@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/redes/static/css/main.fc5e71fd.css",
+    "main.js": "/redes/static/js/main.bbc0932b.js",
+    "static/js/787.9f4b035c.chunk.js": "/redes/static/js/787.9f4b035c.chunk.js",
+    "static/media/principal.png": "/redes/static/media/principal.1dfc0066fcd96f705225.png",
+    "index.html": "/redes/index.html",
+    "main.fc5e71fd.css.map": "/redes/static/css/main.fc5e71fd.css.map",
+    "main.bbc0932b.js.map": "/redes/static/js/main.bbc0932b.js.map",
+    "787.9f4b035c.chunk.js.map": "/redes/static/js/787.9f4b035c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fc5e71fd.css",
+    "static/js/main.bbc0932b.js"
+  ]
+}
